@@ -1,0 +1,3 @@
+AUTOLOAD {
+    "@_"*reverse pop
+}
